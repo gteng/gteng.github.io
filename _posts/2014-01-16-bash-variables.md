@@ -1,3 +1,10 @@
+---
+layout: post
+title: Linux Command Line
+---
+
+{{ page.title }}
+================
 #bash variables
 1. general assignment value to variable  
 var=12  

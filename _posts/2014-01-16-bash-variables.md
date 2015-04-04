@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Command Line
+title: Bash Variables Tips
 ---
 
 {{ page.title }}
